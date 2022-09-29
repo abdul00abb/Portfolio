@@ -76,8 +76,6 @@ section .title::after{
     background: #fff;
     transform: translateX(-50%);
 }
-.text{
-    right: 50%;
 }
 /* navbar styling */
 .navbar{
